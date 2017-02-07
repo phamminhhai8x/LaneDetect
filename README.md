@@ -9,9 +9,6 @@ Study image processing, basic automotive
 # Team
 * Pham Minh Hai|phamminhhai8x@gmail.com
 * Đặng Quốc Bảo|quocbaodn94@gmail.com
-* Phạm Kim Luân|kimluanpklu@gmail.com
-* Nguyễn Ngọc Sĩ|ngocsi12dt4@gmail.com 
-* Phạm Công Anh Huy|bo.phamconganhhuy@gmail.com
 * Đoàn Minh Thiên Phú||thienphudoan94@gmail.com
 
 # Reference

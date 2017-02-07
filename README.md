@@ -19,3 +19,7 @@ Study image processing, basic automotive
 * Car control
     - Arduino UNO R3
 	- HSP Electric Onroad 1/10 RTR 2,4G (http://www.stormracer.com/sanpham/xe-dieu-khien/1-10-electric-car/hsp-electric-onroad-1-10-rtr-24g-60km-h_01030034.product#prettyPhoto)
+	
+* Period projects
+	- https://github.com/phamminhhai8x/AutoFindTarget
+	- https://github.com/phamminhhai8x/AutoParkingDemo

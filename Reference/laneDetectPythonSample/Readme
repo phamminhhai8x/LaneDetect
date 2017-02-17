@@ -1,0 +1,4 @@
+Settup libs
+1. settup pip for python: [sudo apt install python-pip]
+2. install opencv for python: [sudo apt-get install python-opencv]
+3. install shapely lib for python: [sudo apt-get install python-shapely]
